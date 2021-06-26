@@ -5,5 +5,7 @@ Hi! I'm Joshua!
 - 👯 I’m looking to collaborate on tools and services that benefit the Proxmox community.
 - 💬 Ask me about my homelab! I love helping others build their own DevOps sandboxes.
 
-[![ARMmaster17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARMmaster17&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22)](https://github.com/ARMmaster17)
-[![ARMmaster17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARMmaster17&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&layout=compact)](https://github.com/ARMmaster17)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARMmaster17&show_icons=true&theme=dark" height="168px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMmaster17&show_icons=true&theme=dark&layout=compact" height="168px">
+</p>

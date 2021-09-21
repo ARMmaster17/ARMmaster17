@@ -13,6 +13,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ARMmaster17&show_icons=true&theme=dark" height="168px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMmaster17&show_icons=true&theme=dark&layout=compact" height="168px">
 </p>
+<p align="center">
+    <img src="https://wakatime.com/share/@ARMmaster17/fa1215f2-82cd-48e1-ade1-933df811b0eb.svg" height="300px" />
+    <img src="https://wakatime.com/share/@ARMmaster17/cb35cdfa-3386-4753-b09b-f14ad337e442.svg" height="300px" />
+</p>
 
 ---
 
